@@ -10,6 +10,9 @@ body{
     background-size: cover;
     overflow: hidden;
 }
+h1{
+    color: seagreen;
+}
 h2{
     text-transform: uppercase;
     letter-spacing: 4px;
